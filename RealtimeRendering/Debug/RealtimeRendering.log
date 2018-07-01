@@ -1,0 +1,14 @@
+﻿  framebuffers_exercise1.cpp
+d:\workbench\realtimerendering\includes\learnopengl\shader_m.h(53): warning C4101: “infoLog”: 未引用的局部变量
+d:\workbench\realtimerendering\includes\learnopengl\shader_m.h(52): warning C4101: “success”: 未引用的局部变量
+d:\workbench\realtimerendering\src\framebuffers_exercise1.cpp(28): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\workbench\realtimerendering\src\framebuffers_exercise1.cpp(29): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\workbench\realtimerendering\src\framebuffers_exercise1.cpp(230): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\workbench\realtimerendering\src\framebuffers_exercise1.cpp(371): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\workbench\realtimerendering\src\framebuffers_exercise1.cpp(372): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\workbench\realtimerendering\src\framebuffers_exercise1.cpp(376): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\workbench\realtimerendering\src\framebuffers_exercise1.cpp(377): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\workbench\realtimerendering\src\framebuffers_exercise1.cpp(379): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\workbench\realtimerendering\src\framebuffers_exercise1.cpp(380): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\workbench\realtimerendering\src\framebuffers_exercise1.cpp(389): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  RealtimeRendering.vcxproj -> D:\workbench\RealtimeRendering\Debug\RealtimeRendering.exe
